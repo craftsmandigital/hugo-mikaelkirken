@@ -2,7 +2,7 @@
 title: REFLEKSJONER OVER UKENS EVANGELIETEKST
 date: 2020-03-22
 hero: "/images/kiofasade.png"
-# excerpt: REFLEKSJONER OVER UKENS EVANGELIETEKST
+excerpt: Det er vanskelige tider. Hvor setter jeg foten ned? Hvor finner jeg trygghet og håp?
 authors:
   - Daan Ente
 
