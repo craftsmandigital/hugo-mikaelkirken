@@ -4,7 +4,7 @@ date: 2020-03-15
 hero: "/images/kio.jpg"
 # excerpt: REFLEKSJONER OVER UKENS EVANGELIETEKST
 authors:
-  - Hugo Authors
+  - Kristine Hoyland
 
 ---
 
