@@ -1,8 +1,8 @@
 ---
-title: REFLEKSJONER OVER UKENS EVANGELIETEKST
+title: Det ekstra alvoret i pasjonstiden vi nå går inn i
 date: 2020-03-15
 hero: "/images/kio.jpg"
-excerpt: Det er første søndag i pasjonstiden. På det sortkledde alteret står det nå vaser med en kvist og en hvit rose i. Ikke mer. Det utstråler alvor. Evangelieteksten, Lukas 11, 14-36, understreker alvoret
+excerpt: Refleksjoner over evangelieteksten 15. mars 2020, Lukas 11, 14-36 om fordrivelsen av den onde ånd
 authors:
   - Kristine Hoyland
 

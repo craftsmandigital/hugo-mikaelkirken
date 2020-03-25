@@ -1,8 +1,8 @@
 ---
-title: REFLEKSJONER OVER UKENS EVANGELIETEKST
+title: Å løfte blikket men bli på jorden
 date: 2020-03-22
 hero: "/images/kiofasade.png"
-excerpt: Det er vanskelige tider. Hvor setter jeg foten ned? Hvor finner jeg trygghet og håp?
+excerpt: Refleksjoner over evangelieteksten 22. mars 2020, Johannes 6 om bespisningen av de 5000
 authors:
   - Daan Ente
 
