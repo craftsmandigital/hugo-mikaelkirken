@@ -1,5 +1,6 @@
 baseURL: "https://mikaelkirken.netlify.com/"
-languageCode: "no"
+languageCode: no
+DefaultContentLanguage: no
 title: "Mikaelkirken Blogg"
 pygmentsstyle: 'monokai'
 paginate: 6
@@ -12,3 +13,6 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+params:
+  DateForm: "2.1.2006"
+  # DateForm: "Monday, Jan 2, 2006"
