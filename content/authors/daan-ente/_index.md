@@ -1,7 +1,7 @@
 ---
 title: Daan Ente
 bio: |
-  Menighetsprest Mikaelkirken Kristensamfunnet i Oslo
+  Menighetsprest Daan i Mikaelkirken, Kristensamfunnet i Oslo
 avatar: /images/daan.png
 featured: true
 social:

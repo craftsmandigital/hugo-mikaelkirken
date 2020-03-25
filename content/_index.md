@@ -1,5 +1,7 @@
 ---
 hero:
-  heading: Velkommenn til Mikaelkirkens Blogg
+  heading: "Velkommen til Mikaelkirkens Blogg
+  Kristensamfunnet i Oslo"
+  subheading: "Denne bloggen inneholder tekster fra prestene i Mikaelkirken, Kristensamfunnet i Oslo. Mikaelkirkens prester og menighetsmedlemmer har lærefrihet og trosfrihet. Derfor står alle innlegg for forfatterens egen mening."
   maxWidthPX: 652
 ---
