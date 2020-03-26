@@ -1,7 +1,7 @@
 ---
 title: Det ekstra alvoret i pasjonstiden vi nå går inn i
 date: 2020-03-15
-hero: "/images/kio.jpg"
+hero: "/images/blomst.jpg"
 excerpt: Refleksjoner over evangelieteksten 15. mars 2020, Lukas 11, 14-36 om fordrivelsen av den onde ånd
 authors:
   - Kristine Hoyland

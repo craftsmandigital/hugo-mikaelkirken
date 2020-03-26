@@ -1,7 +1,7 @@
 ---
 title: Å løfte blikket men bli på jorden
 date: 2020-03-22
-hero: "/images/kiofasade.png"
+hero: "/images/siluett.jpg"
 excerpt: Refleksjoner over evangelieteksten 22. mars 2020, Johannes 6 om bespisningen av de 5000
 authors:
   - Daan Ente
