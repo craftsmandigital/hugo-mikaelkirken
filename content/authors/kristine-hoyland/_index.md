@@ -1,7 +1,7 @@
 ---
 title: Kristine Høiland 
 bio: |
-  Menighetsprest Kristine i Mikaelkirken, Kristensamfunnet i Oslo
+  Menighetsprest Kristine Høiland 
 avatar: /images/kristine.jpg
 featured: true
 social:

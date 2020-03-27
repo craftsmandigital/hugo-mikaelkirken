@@ -10,16 +10,16 @@
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    margin-bottom: 100px;
+    margin-bottom: 40px;
   
     /*DESKTOP*/
     @media screen and (max-width: $desktop){
-      margin-bottom: 80px;
+      margin-bottom: 20px;
     }
   
     /*TABLET*/
     @media screen and (max-width: $tablet){
-      margin-bottom: 60px;
+      margin-bottom: 10px;
     }
   
     /*PHABLET*/
@@ -43,7 +43,7 @@
 }
 
 .heading-container{
-    margin: 100px 0;
+    margin: 30px 0;
 
     /*DESKTOP*/
     @media screen and (max-width: $desktop){

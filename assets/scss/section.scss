@@ -1,9 +1,11 @@
+.purpleback{
+      background-color: #6F00A7;
+}
 .section{
     width: 100%;
     max-width: 1220px;
     margin: 0 auto;
     padding: 0 4rem;
-
     /*DESKTOP*/
     @media screen and (max-width: 1070px){
         max-width: 850px;
