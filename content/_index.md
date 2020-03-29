@@ -6,4 +6,4 @@ hero:
   maxWidthPX: 652
 ---
 ###  Velkommen til Mikaelkirkens blogg 
-  Bloggen inneholder tekster fra prestene. Mikaelkirkens prester og menighetsmedlemmer har lærefrihet og trosfrihet. Derfor står alle innlegg for forfatterens egen mening."
+  Bloggen inneholder tekster fra prestene. Mikaelkirkens prester og menighetsmedlemmer har lærefrihet og trosfrihet. Derfor står alle innlegg for forfatterens egen mening.
