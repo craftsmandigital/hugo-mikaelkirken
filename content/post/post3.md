@@ -1,7 +1,7 @@
 ---
 title: De utvidede bud
 date: 2020-03-29
-hero: "/images/tenCommandments.jpg"
+hero: "/images/blomster.jpg"
 excerpt: Refleksjoner over evangelieteksten 29. mars, Johannes 8, 1-12
 authors:
   - Kristine Hoyland
